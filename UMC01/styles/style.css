@@ -1,0 +1,98 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+	background-color: black;
+}
+
+.bg {
+    background-color: black;
+    height: 100vh;
+    padding: 3vh 0 0 10vw;
+    width: 100vw;
+}
+
+iframe {
+    height: 100%;
+    width: 100%;
+}
+
+img {
+	border: 10px solid rgba(255,255,255,.5);
+	width:auto;
+	max-width:50%;
+	height:auto;
+}
+
+img.logo {
+	  max-width: 25%;
+		padding: 20px;
+    border:none;
+}
+
+.one {
+		bottom: 69%;
+    cursor: pointer;
+    height: 29vh;
+    left: 11%;
+    position: relative;
+    width: 11vw;
+}
+
+.two {
+		bottom: 107%;
+    cursor: pointer;
+    height: 32vh;
+		width: 12vw;
+    left: 25%;
+    position: relative;
+}
+
+.three {
+		bottom: 147%;
+    cursor: pointer;
+    height: 32vh;
+		width: 15vw;
+    left: 40%;
+    position: relative;
+}
+
+.four {
+		bottom: 189%;
+    cursor: pointer;
+    height: 32vh;
+		width: 14vw;
+    left: 58.75%;
+    position: relative;
+}
+
+.five {
+		bottom: 225%;
+    cursor: pointer;
+    height: 32vh;
+		width: 12vw;
+    left: 76.25%;
+    position: relative;
+}
+
+.item {
+  display: inline-block;
+	bottom: 5px;
+  left: 10px;
+	height: 50vh;
+	width: 50vw;
+    position: relative;
+	}
+
+	.item {
+		position: absolute;
+}
+
+.video-container {
+    height: 80vh;
+    width: 80vw;
+}

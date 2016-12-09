@@ -6,8 +6,10 @@ http://www.ultramegacreative.com
 
 ---
 ## ARCHIVE
-#### UMC 01 – 12.7.2016
-Create an advertisement for an imaginary holiday toy in poster format.
+### UMC 01 – 12.7.2016
+*Create an advertisement for an imaginary holiday toy in poster format.*
+
+####Participants –
 
 Juan Carlos Arenas | http://www.robotsoda.com | [@robotsoda](http://www.twitter.com/robotsoda)
 
@@ -18,6 +20,7 @@ Joe Garber  | http://www.joegarber.net/
 Vince Ream  | https://vimeo.com/ultramegafilms
 
 Roberto Brambila  | http://www.robertobrambila.com | [@craftandhustle](http://www.twitter.com/craftandhustle)
+
 
 
 *UMC 01: Curated by Vince Ream + Website by Desiree Gilewich.*

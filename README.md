@@ -5,8 +5,8 @@ The brainchild of curious, collaborative minds, UMC is part art show, partly rid
 http://www.ultramegacreative.com
 
 ---
-## ARCHIVE
-### UMC 01 – 12.7.2016
+
+## UMC 01 – 12.7.2016
 *Create an advertisement for an imaginary holiday toy in poster format.*
 
 ####Participants –

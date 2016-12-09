@@ -7,7 +7,7 @@ http://www.ultramegacreative.com
 ---
 
 ## UMC 01 – 12.7.2016
-*Create an advertisement for an imaginary holiday toy in poster format.*
+*Create an advertisement for an imaginary holiday toy in print format.*
 
 ####Participants –
 

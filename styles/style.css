@@ -1,10 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
 
-@charset "UTF-8";
-/* CSS Document */
-
-
 body {
 	background-color: black;
 }
@@ -39,9 +35,9 @@ img.logo {
 		bottom: 69%;
     cursor: pointer;
     height: 29vh;
+		width: 11vw;
     left: 11%;
-    position: relative;
-    width: 11vw;
+		position: relative;
 }
 
 .two {
@@ -86,12 +82,8 @@ img.logo {
   left: 10px;
 	height: 50vh;
 	width: 50vw;
-    position: relative;
+    position: absolute;
 	}
-
-	.item {
-		position: absolute;
-}
 
 .video-container {
     height: 80vh;

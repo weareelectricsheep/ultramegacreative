@@ -29,9 +29,10 @@ img {
 }
 
 img.logo {
-	  max-width: 25%;
-		padding: 20px;
-    border:none;
+	max-width: 35%;
+	display: block;
+	margin: 0 auto;
+	border: none;
 }
 
 .one {

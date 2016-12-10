@@ -4,5 +4,3 @@ $('.divBox').hover(function() {
 }, function() {
     $(this).children('.item').hide();
 });
-
-// JavaScript Document

@@ -2,7 +2,9 @@
 /* CSS Document */
 
 body {
-	background-color: black;
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	background-color: #000;
+	line-height: 1.25em;
 }
 
 .bg {
@@ -88,4 +90,38 @@ img.logo {
 .video-container {
     height: 80vh;
     width: 80vw;
+}
+
+.info {
+	font-size: 1.25em; /* 12 / 16 */
+	color: #DD244B;
+	width: 50%;
+	margin: 0 auto;
+	padding-top: 2vh;
+}
+
+.umc01 {
+	color: #FFF;
+	text-align: center;
+	font-size: .75em;
+}
+
+h3 span {
+	background: rgb(0, 0, 0); /* fallback color */
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+	font-size: .75em;
+	color: #3EB1B7;
+}
+
+a, a:visited {
+		color: #3EB1B7;
+    text-decoration: none;
+    border-bottom: .1em dotted;
+    padding-bottom: .1em;
+}
+
+a:hover {
+    color: #DD244B;
+    border-bottom: none;
 }

@@ -1,6 +1,7 @@
 $('.item').hide();
-$('.divBox').hover(function() {
-    $(this).children('.item').show();
+
+$('.divbox').hover(function() {
+    $(this).children('.item').fadeToggle("slow");
 }, function() {
     $(this).children('.item').hide();
 });
